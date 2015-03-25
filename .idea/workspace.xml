@@ -26,19 +26,30 @@
       <file leaf-file-name="Pong.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="28" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="1134" max-vertical-offset="3330">
-              <folding />
+            <state line="147" column="20" selection-start="4555" selection-end="4600" vertical-scroll-proportion="0.0" vertical-offset="2480" max-vertical-offset="3330">
+              <folding>
+                <element signature="e#0#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_pong.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test_pong.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_pong.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.61803716" vertical-offset="919" max-vertical-offset="1296">
+            <state line="66" column="0" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0" vertical-offset="811" max-vertical-offset="1296">
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database_mock.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database_mock.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="0.8597015" vertical-offset="54" max-vertical-offset="630">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,12 +68,13 @@
         <option value="$PROJECT_DIR$/test_pintarPalas.py" />
         <option value="$PROJECT_DIR$/Pong.py" />
         <option value="$PROJECT_DIR$/test_pong.py" />
+        <option value="$PROJECT_DIR$/database_mock.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="185" />
-    <option name="y" value="47" />
+    <option name="x" value="75" />
+    <option name="y" value="66" />
     <option name="width" value="1234" />
     <option name="height" value="697" />
   </component>
@@ -128,7 +140,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittest TestPong.test_colisionPala2">
+  <component name="RunManager" selected="Python.database_mock">
     <configuration default="false" name="Unittest TestPong.test_colisionBolaLeft" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,30 +154,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pong.py" />
       <option name="CLASS_NAME" value="TestPong" />
       <option name="METHOD_NAME" value="test_colisionBolaLeft" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest TestPong.test_colisionBolaRight" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PongProject" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_pong.py" />
-      <option name="CLASS_NAME" value="TestPong" />
-      <option name="METHOD_NAME" value="test_colisionBolaRight" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -246,6 +234,26 @@
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="database_mock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PongProject" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/database_mock.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -372,18 +380,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionBolaLeft" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionBolaRight" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala2" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPalaNot" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala2" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPalaNot" />
+      <item index="4" class="java.lang.String" itemvalue="Python.database_mock" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala2" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPalaNot" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionBolaLeft" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionBolaRight" />
+        <item index="0" class="java.lang.String" itemvalue="Python.database_mock" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala2" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPalaNot" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionPala" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestPong.test_colisionBolaLeft" />
       </list>
     </recent_temporary>
   </component>
@@ -397,18 +405,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="185" y="47" width="1234" height="697" extended-state="0" />
-    <editor active="false" />
+    <frame x="75" y="66" width="1234" height="697" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2495935" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3986711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -441,7 +449,9 @@
     <entry file="file://$PROJECT_DIR$/Pong.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="0" selection-start="28" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="3330">
-          <folding />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -454,29 +464,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.mydb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="63" selection-start="2112" selection-end="2112" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162" />
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pycharm/utrunner.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="147" column="0" selection-start="4469" selection-end="4469" vertical-scroll-proportion="0.5225464" vertical-offset="2413" max-vertical-offset="2790" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_pong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="1943" selection-end="1943" vertical-scroll-proportion="0.0" vertical-offset="811" max-vertical-offset="1296">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Pong.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="28" selection-end="55" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3330">
+        <state line="147" column="20" selection-start="4555" selection-end="4600" vertical-scroll-proportion="0.0" vertical-offset="2480" max-vertical-offset="3330">
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.mydb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="63" selection-start="164" selection-end="164" vertical-scroll-proportion="0.16770187" vertical-offset="0" max-vertical-offset="322">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_pong.py">
+    <entry file="file://$PROJECT_DIR$/database_mock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="1941" selection-end="1941" vertical-scroll-proportion="0.61803716" vertical-offset="919" max-vertical-offset="1296">
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
+        <state line="19" column="38" selection-start="662" selection-end="662" vertical-scroll-proportion="0.8597015" vertical-offset="54" max-vertical-offset="630">
+          <folding />
         </state>
       </provider>
     </entry>
